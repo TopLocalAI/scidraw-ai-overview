@@ -1,9 +1,11 @@
 
 <div align="center">
 
-<img src="https://sci-draw.com/logo.png" alt="SciDraw Logo" width="120" />
+<img src="https://sci-draw.com/logo.png" alt="SciDraw AI Logo" width="120" />
 
 # SciDraw AI
+
+[中文说明](#中文说明)
 
 **AI-Powered Scientific Illustration Platform**
 
@@ -18,9 +20,9 @@ Create publication-ready scientific figures in minutes, not hours.
 
 ---
 
-## What is SciDraw?
+## What is SciDraw AI?
 
-SciDraw is an AI-powered platform that helps researchers, educators, and students create professional scientific illustrations without any design skills. Whether you need a molecular diagram, a cell biology figure, or a graphical abstract for your next paper, SciDraw generates publication-ready graphics in seconds.
+SciDraw AI is an AI-powered platform that helps researchers, educators, and students create professional scientific illustrations without any design skills. Whether you need a molecular diagram, a cell biology figure, or a graphical abstract for your next paper, SciDraw AI generates publication-ready graphics in seconds.
 
 > No more spending hours in Illustrator. No more hiring designers for a single figure.
 
@@ -65,7 +67,7 @@ SciDraw is an AI-powered platform that helps researchers, educators, and student
 
 ## Templates & Styles
 
-SciDraw comes with **7+ professional templates** and **6+ visual styles**:
+SciDraw AI comes with **7+ professional templates** and **6+ visual styles**:
 
 **Templates**: TOC Graphics, Journal Covers, Experimental Workflows, Mechanism Illustrations, and more
 
@@ -75,16 +77,16 @@ SciDraw comes with **7+ professional templates** and **6+ visual styles**:
 
 1. Visit [sci-draw.com](https://sci-draw.com)
 2. Sign up for free (no credit card required)
-3. Get **10 free credits** on registration + **5 daily credits**
+3. Get **free credits** on registration
 4. Start creating your first scientific figure
 
 ## Product Demo
 
-[![SciDraw Demo Video](https://img.shields.io/badge/Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SciDrawAI)
+[![SciDraw AI Demo Video](https://img.shields.io/badge/Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SciDrawAI)
 
 ## Multilingual Support
 
-SciDraw supports input prompts in multiple languages and provides a localized interface in:
+SciDraw AI supports input prompts in multiple languages and provides a localized interface in:
 
 English, Chinese, Japanese, Korean, German, French, Spanish, Portuguese, Russian, Arabic, Hindi
 
@@ -97,14 +99,36 @@ English, Chinese, Japanese, Korean, German, French, Spanish, Portuguese, Russian
 - **YouTube**: [@SciDrawAI](https://www.youtube.com/@SciDrawAI)
 - **LinkedIn**: [Davie Chen](https://www.linkedin.com/in/chen-davie-0760333b7/)
 
+## 中文说明
+
+本仓库是 SciDraw AI 的公开项目主页与问题反馈入口；SciDraw AI 的官方网站是 [sci-draw.com](https://sci-draw.com)。平台面向科研人员、高校师生与期刊编辑，支持中英文等多语言输入与界面，无需设计基础即可制作论文配图、基金插图与学术汇报图表。
+
+**能做什么**
+
+- 用文字描述生成科研插图
+- 绘制机制图、通路图与技术路线图
+- 生成图形摘要 / TOC 与神经网络结构图
+- 导出 SVG / PPTX 再编辑
+
+**怎么用**
+
+1. 访问 [sci-draw.com](https://sci-draw.com)
+2. 免费注册账号
+3. 注册即可获得免费积分
+4. 输入中文或英文文字描述，开始生成第一张科研插图
+
+**价格**：注册送免费积分；付费 $10/月起（年付），月付 $20；支持支付宝。
+
+**相关链接**：[SciDraw AI 中文页](https://sci-draw.com/zh) · [中文教程与示例](https://sci-draw.cn) · [官方文档](https://sci-draw.com/docs) · [官方博客](https://sci-draw.com/blog)
+
 ## License
 
-SciDraw is a commercial SaaS product. This repository serves as the public-facing project page and issue tracker.
+SciDraw AI is a commercial SaaS product. This repository serves as the public-facing project page and issue tracker.
 
 ---
 
 <div align="center">
 
-**[Try SciDraw Free](https://sci-draw.com)** | Made with AI for scientists
+**[Try SciDraw AI Free](https://sci-draw.com)** | Made with AI for scientists
 
 </div>
