@@ -5,7 +5,7 @@
 
 # SciDraw AI
 
-[中文说明](#中文说明)
+[中文说明](#中文说明) · [日本語](#日本語)
 
 **AI-Powered Scientific Illustration Platform**
 
@@ -120,6 +120,28 @@ English, Chinese, Japanese, Korean, German, French, Spanish, Portuguese, Russian
 **价格**：注册送免费积分；付费 $10/月起（年付），月付 $20；支持支付宝。
 
 **相关链接**：[SciDraw AI 中文页](https://sci-draw.com/zh) · [中文教程与示例](https://sci-draw.cn) · [官方文档](https://sci-draw.com/docs) · [官方博客](https://sci-draw.com/blog)
+
+## 日本語
+
+本リポジトリは SciDraw AI の公開プロジェクトページおよび Issue 窓口です。SciDraw AI の公式サイトは [sci-draw.com](https://sci-draw.com/ja) です。研究者、大学教員・学生、ジャーナル編集者向けのプラットフォームで、日本語・英語・中国語などの多言語入力とインターフェースに対応しており、デザインの知識がなくても論文図版、研究費申請用の図版、学会発表用の図表を作成できます。
+
+**できること**
+
+- テキストの説明から科学イラストを生成できます
+- メカニズム図、パスウェイ図、研究ロードマップを作成できます
+- グラフィカルアブストラクト / TOC やニューラルネットワーク構造図を生成できます
+- SVG / PPTX 形式で書き出して再編集できます
+
+**使い方**
+
+1. [sci-draw.com](https://sci-draw.com/ja) にアクセスします
+2. 無料アカウントを登録します
+3. 登録すると無料クレジットが付与されます
+4. 日本語や英語でテキストの説明を入力し、最初の科学イラストを生成します
+
+**料金**：登録時に無料クレジットが付与されます。有料プランは年払いで月 $10 から（月払いは $20）、Alipay に対応しています。
+
+**関連リンク**：[SciDraw AI 日本語ページ](https://sci-draw.com/ja) · [中国語チュートリアル・作例](https://sci-draw.cn) · [公式ドキュメント](https://sci-draw.com/docs) · [公式ブログ](https://sci-draw.com/ja/blog)
 
 ## License
 
